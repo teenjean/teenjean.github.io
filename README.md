@@ -1,2 +1,1 @@
-# PersonalWebsiteTutorial
-Personal Website Tutorial!
+# teenjean.github.io
