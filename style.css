@@ -9,7 +9,7 @@
 body
 {
     min-height: 100vh;
-    background:linear-gradient(#2b1055,#7597de);
+    background:linear-gradient(#FF7F50,#FF7F50);
     overflow-x: hidden;
 }
 header
@@ -55,7 +55,7 @@ header ul li a:hover,
 header ul li a:active
 {
     background:#fff;
-    color: #2b1055;
+    color: #FF7F50;
 }
 section
 {
@@ -112,7 +112,7 @@ section img#mountains_front
     padding: 8px 30px;
     border-radius: 40px;
     background:#fff;
-    color: #2b1055;
+    color: #FF7F50;
     font-size: 1.5em;
     z-index: 9;
     transform: translateY(100px);
