@@ -121,7 +121,8 @@ section img#mountains_front
 {
     position: relative;
     padding: 100px;
-    background: #1c0522;
+    <!-- background: #1c0522; -->
+    background: #FF7F50;
 }
 .sec h2
 {
