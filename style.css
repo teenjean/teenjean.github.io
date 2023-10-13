@@ -55,21 +55,13 @@
 		text-align: right;
 	}
 
-	#search {
-		padding: 5px;
-		font-size: 17px;
-		font-family: 'Noto Sans', sans-serif;
-		border: 2px solid grey;
-		border-radius: 9px;
-	}
-
 	.firstsection {
-		background-color: green;
+		background-color: white;
 		height: 400px;
 	}
 
 	.secondsection {
-		background-color: blue;
+		background-color: white;
 		height: 400px;
 	}
 
