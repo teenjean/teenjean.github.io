@@ -25,16 +25,16 @@
 		align-items: center;
 	}
 
-	.logo {
+	<!-- .logo {
 		display: flex;
 		justify-content: center;
 		align-items: center;
-	}
+	} -->
 
-	.logo img {
+	<!-- .logo img {
 		width: 180px;
 		border-radius: 50px;
-	}
+	} -->
 
 	.nav-list li {
 		list-style: none;
